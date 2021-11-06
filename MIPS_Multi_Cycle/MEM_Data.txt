@@ -1,0 +1,4 @@
+The Write Address A is 00000050
+DATA_MEM[A] is 00000007
+The Write Address A is 00000054
+DATA_MEM[A] is 00000007
